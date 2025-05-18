@@ -1,0 +1,71 @@
+﻿Case ID,Activity_ID,Activity_Name,Owner,Timestamp
+0,1,Goods to ship,Clerk,23:01.4
+0,2,Decide if Normal Post or Special Shipment,Clerk,25:01.4
+0,3,Package Goods,Warehouse Worker ,27:01.4
+0,4,Check if Extra Insurance is necessary,Clerk,29:01.4
+0,5,Take out Extra Insurance,Logistics Manager ,32:01.4
+0,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,38:01.4
+0,7,Goods Available for Pickup ,Warehouse Worker ,39:01.4
+1,1,Goods to ship,Clerk,23:04.2
+1,2,Package Goods,Warehouse Worker ,25:04.2
+1,3,Decide if Normal Post or Special Shipment,Clerk,26:04.2
+1,4,Check if Extra Insurance is necessary,Clerk,29:04.2
+1,5,Fill in Post Label,Clerk,32:04.2
+1,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,38:04.2
+1,7,Goods Available for Pickup ,Warehouse Worker ,39:04.2
+2,1,Goods to ship,Clerk,24:02.3
+2,2,Decide if Normal Post or Special Shipment,Clerk,26:02.3
+2,3,Package Goods,Warehouse Worker ,29:02.3
+2,4,Request Quotes from Carriers,Clerk,30:02.3
+2,5,Assign Carrier and Prepare Paperwork,Clerk,31:02.3
+2,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,35:02.3
+2,7,Goods Available for Pickup ,Warehouse Worker ,36:02.3
+3,1,Goods to ship,Clerk,25:08.4
+3,2,Decide if Normal Post or Special Shipment,Clerk,27:08.4
+3,3,Package Goods,Warehouse Worker ,30:08.4
+3,4,Check if Extra Insurance is necessary,Clerk,31:08.4
+3,5,Take out Extra Insurance,Logistics Manager ,34:08.4
+3,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,40:08.4
+3,7,Goods Available for Pickup ,Warehouse Worker ,41:08.4
+4,1,Goods to ship,Clerk,26:43.4
+4,2,Package Goods,Warehouse Worker ,28:43.4
+4,3,Decide if Normal Post or Special Shipment,Clerk,29:43.4
+4,4,Check if Extra Insurance is necessary,Clerk,32:43.4
+4,5,Take out Extra Insurance,Logistics Manager ,35:43.4
+4,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,41:43.4
+4,7,Goods Available for Pickup ,Warehouse Worker ,42:43.4
+5,1,Goods to ship,Clerk,27:15.9
+5,2,Decide if Normal Post or Special Shipment,Clerk,29:15.9
+5,3,Package Goods,Warehouse Worker ,30:15.9
+5,4,Check if Extra Insurance is necessary,Clerk,33:15.9
+5,5,Fill in Post Label,Clerk,36:15.9
+5,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,42:15.9
+5,7,Goods Available for Pickup ,Warehouse Worker ,43:15.9
+6,1,Goods to ship,Clerk,27:16.6
+6,2,Decide if Normal Post or Special Shipment,Clerk,29:16.6
+6,3,Check if Extra Insurance is necessary,Clerk,32:16.6
+6,4,Package Goods,Warehouse Worker ,33:16.6
+6,5,Fill in Post Label,Clerk,36:16.6
+6,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,42:16.6
+6,7,Goods Available for Pickup ,Warehouse Worker ,43:16.6
+7,1,Goods to ship,Clerk,30:38.6
+7,2,Package Goods,Warehouse Worker ,32:38.6
+7,3,Decide if Normal Post or Special Shipment,Clerk,33:38.6
+7,4,Request Quotes from Carriers,Clerk,36:38.6
+7,5,Assign Carrier and Prepare Paperwork,Clerk,37:38.6
+7,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,41:38.6
+7,7,Goods Available for Pickup ,Warehouse Worker ,42:38.6
+8,1,Goods to ship,Clerk,31:35.1
+8,2,Package Goods,Warehouse Worker ,33:35.1
+8,3,Decide if Normal Post or Special Shipment,Clerk,34:35.1
+8,4,Check if Extra Insurance is necessary,Clerk,37:35.1
+8,5,Take out Extra Insurance,Logistics Manager ,40:35.1
+8,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,46:35.1
+8,7,Goods Available for Pickup ,Warehouse Worker ,47:35.1
+9,1,Goods to ship,Clerk,32:06.7
+9,2,Package Goods,Warehouse Worker ,34:06.7
+9,3,Decide if Normal Post or Special Shipment,Clerk,35:06.7
+9,4,Check if Extra Insurance is necessary,Clerk,38:06.7
+9,5,Take out Extra Insurance,Logistics Manager ,41:06.7
+9,6,Add Paperwork and Move Package to Pick Area,Warehouse Worker ,47:06.7
+9,7,Goods Available for Pickup ,Warehouse Worker ,48:06.7
